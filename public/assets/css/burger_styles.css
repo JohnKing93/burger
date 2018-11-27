@@ -1,0 +1,8 @@
+body {
+    background-image: url("../img/burger.jpg");
+    background-repeat: repeat;
+}
+
+#white-block {
+    background-color: white;
+}
